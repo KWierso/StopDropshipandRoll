@@ -1,0 +1,11 @@
+{
+    "name": "StopDropshipandRoll",
+    "version_number": "0.1",
+    "website_url": "https://discord.gg/CnpPhDvJ",
+    "description": "Changes Drop Ship music to... something else...",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100",
+        "no00ob-LCSoundTool-1.2.2",
+        "Clementinise-CustomSounds-1.2.1"
+    ]
+}
