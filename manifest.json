@@ -1,6 +1,6 @@
 {
     "name": "StopDropshipandRoll",
-    "version_number": "0.1",
+    "version_number": "0.1.1",
     "website_url": "https://github.com/KWierso/StopDropshipandRoll/",
     "description": "Changes Drop Ship music to... something else...",
     "dependencies": [
